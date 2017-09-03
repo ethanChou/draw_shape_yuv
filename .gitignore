@@ -1,0 +1,13 @@
+!.gitignore
+Release/*
+Debug/*
+*.suo
+*.sdf
+*.opensdf
+*.obj
+*.bin
+*.user
+*.pdb
+*.ilk
+*.log
+*.tlog
